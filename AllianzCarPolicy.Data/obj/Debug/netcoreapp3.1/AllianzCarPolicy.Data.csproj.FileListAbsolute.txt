@@ -1,0 +1,15 @@
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.deps.json
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.runtimeconfig.json
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.runtimeconfig.dev.json
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.csprojAssemblyReference.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.AssemblyInfoInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.AssemblyInfo.cs
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.csproj.CoreCompileInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.csproj.CopyComplete
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Data\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Data.genruntimeconfig.cache

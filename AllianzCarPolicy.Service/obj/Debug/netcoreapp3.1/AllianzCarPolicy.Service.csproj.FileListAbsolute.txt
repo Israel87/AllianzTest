@@ -1,0 +1,16 @@
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Service.deps.json
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Service.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Service.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Service.csprojAssemblyReference.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Service.AssemblyInfoInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Service.AssemblyInfo.cs
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Service.csproj.CoreCompileInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Service.csproj.CopyComplete
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Service.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Service\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Service.pdb

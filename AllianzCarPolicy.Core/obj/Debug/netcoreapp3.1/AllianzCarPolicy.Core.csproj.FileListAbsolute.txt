@@ -1,0 +1,9 @@
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.deps.json
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Core.csprojAssemblyReference.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Core.AssemblyInfoInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Core.AssemblyInfo.cs
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Core.csproj.CoreCompileInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Core.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Core\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Core.pdb

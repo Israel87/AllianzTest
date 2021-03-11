@@ -1,0 +1,14 @@
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.deps.json
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Core.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\bin\Debug\netcoreapp3.1\AllianzCarPolicy.Data.pdb
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.csprojAssemblyReference.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.AssemblyInfoInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.AssemblyInfo.cs
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.csproj.CopyComplete
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.dll
+C:\Users\IsraelNnaji\source\repos\AllianzCarPolicyTest\AllianzCarPolicy.Persistence\obj\Debug\netcoreapp3.1\AllianzCarPolicy.Persistence.pdb
